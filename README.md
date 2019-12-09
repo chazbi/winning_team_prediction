@@ -1,5 +1,5 @@
 # Basketball Winning Team Prediction
-Authors: Xingjia Wang, Stella Huang, Charles Bi
+Authors: Xingjia Wang, Stella Huang, Haocheng Bi (thank you my awesome teammates)
 
 ## Introduction
 
