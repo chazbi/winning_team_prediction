@@ -1,5 +1,5 @@
 ---
-  title: "101c_feature_selection"
+  title: "feature selection methods"
 output: html_document
 ---
   
